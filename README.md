@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with anyone who has great intrest of helping humanity move forward in technology.
 - 📫 How to reach me:
 Call: +254706852923 / 750515222
-Email: brayton@protonmai.com / brayton@andie.co.ke
+Email: brayton@protonmail.com / brayton@andie.co.ke
 Website: https://andie.co.ke
 
 <!---
