@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:3fb950&height=200&section=header&text=Brayton%20Anderson&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Silicon%20%E2%86%92%20Firmware%20%E2%86%92%20Cloud%20%E2%86%92%20App&descAlignY=62&descSize=20](https://avatars.githubusercontent.com/u/36700639?s=400&u=395db1669323a4efb201a6487072234a7a44d5ef&v=4)" alt="Brayton Anderson" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:3fb950&height=200&section=header&text=Brayton%20Anderson&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Silicon%20%E2%86%92%20Firmware%20%E2%86%92%20Cloud%20%E2%86%92%20App&descAlignY=62&descSize=20" alt="Brayton Anderson" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=I+ship+the+whole+stack.;Embedded+%7C+IoT+%7C+Full-stack+%7C+AI%2FML;Self-taught.+Building+since+2015.;Nairobi+%F0%9F%87%B0%F0%9F%87%AA+%E2%86%92+World)](https://git.io/typing-svg)
 
