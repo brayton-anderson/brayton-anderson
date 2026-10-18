@@ -103,7 +103,7 @@ I build practical technology for **African and emerging-market problems**: healt
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=brayton-anderson&theme=github-dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayton-anderson&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3FB950&langs_count=8)
 
 </div>
 
