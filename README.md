@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=640&lines=I+ship+the+whole+stack.;Embedded+%7C+IoT+%7C+Full-stack+%7C+AI%2FML;Self-taught.+Building+since+2015.;Nairobi+%F0%9F%87%B0%F0%9F%87%AA+%E2%86%92+World)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)
+![Profile views](https://hits.sh/github.com/brayton-anderson.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=1f6feb)
 ![Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=3fb950)
 ![Location](https://img.shields.io/badge/Nairobi-Kenya-black?style=for-the-badge&logo=googlemaps&logoColor=white)
 
